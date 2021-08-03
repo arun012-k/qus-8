@@ -1,0 +1,83 @@
+.example1 {
+    width:100%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    line-height: 10px;
+    color: whitesmoke;
+    background-color:black;
+}
+.example1 ul li{
+    list-style: none;
+    display:inline-block;
+    margin:0 15px;
+}
+.example1 ul li a{
+    color:whitesmoke
+}
+img{
+    width: 90px;
+}
+.example2{
+    background-color: rgb(45, 172, 252);
+    width:100%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    line-height:70px;
+}
+.example2 ul li{
+    list-style: none;
+    display:inline-block;
+    margin:0 15px;
+    color: whitesmoke;
+}
+.example3{
+    background-color:rgb(255, 245, 226);
+    width:100%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    line-height:10px;
+}
+.example3 ul li{
+    list-style: none;
+    display:inline-block;
+    margin:0 15px;
+    color: black;
+}
+.example4{
+    background-color: rgb(0, 47, 255);
+    width:100%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    line-height: 1000px;
+    justify-content:space-between;
+}
+.example4 .example5 img{
+    padding-left: auto;
+    width:1100px;
+    height:400px
+}
+.example4 .example6 img{
+    padding-right: auto;
+    width:400px;
+    height:400px
+}
+.example4.example9 {
+    background-color:rgb(0, 47, 255) ;
+}
+.example7{
+    background-color: rgb(0, 47, 255);
+}
+
+.example8{
+    background-color:rgb(0, 47, 255) ;
+}
+h2{
+    color: whitesmoke;
+}
